@@ -1,6 +1,6 @@
 <h1 align="center">💠 BASIC COMMAND 💠</h1>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/hacking-gif-20202201">
+<p align="left"> <img src="https://github.com/wasimmoulik008/BASIC/blob/main/icegif-502.gif" /> </p>
 
 <h1 align="center">💠INSTALLATION💠</h1>
 rm -rf BASIC
