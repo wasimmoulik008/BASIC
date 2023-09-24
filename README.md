@@ -5,7 +5,7 @@
 <h1 align="center">💠INSTALLATION💠</h1>
 rm -rf BASIC
 
-git clone https://github.wasimmoulik008/BASIC
+git clone https://github.com/wasimmoulik008/BASIC
 
 cd BASIC
 
